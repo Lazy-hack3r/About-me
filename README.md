@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baggyhacker
+- 👋 Hi, I’m Rohitkumar
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning computer science
 
